@@ -3,7 +3,7 @@
 Station météo embarquée mesurant la température et l'humidité ambiantes en temps réel, avec affichage sur écran LCD 16x2 (interface I2C), programmée en MicroPython.
 
 ![Schéma de câblage](schema_cablage.png)
-![Bibliothèques](bibliotheques)
+[Bibliothèques](bibliotheques)
 
 ## 🎯 Objectifs
 

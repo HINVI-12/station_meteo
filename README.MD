@@ -21,14 +21,6 @@ Station météo embarquée mesurant la température et l'humidité ambiantes en 
 | Écran LCD 16x2 I2C | Affichage des mesures 
 | Breadboard + fils | Connexions temporaires |
 | Source d'alimentation | USB ou batterie |
-<table width="100%">
-<tr><th>Composant</th><th>Description / Rôle</th></tr>
-<tr><td>DHT11</td><td>Capteur de température et d'humidité</td></tr>
-<tr><td>Raspberry Pi Pico</td><td>Microcontrôleur</td></tr>
-<tr><td>Écran LCD 16x2 I2C</td><td>Affichage des mesures</td></tr>
-<tr><td>Breadboard + fils</td><td>Connexions temporaires</td></tr>
-<tr><td>Source d'alimentation</td><td>USB ou batterie</td></tr>
-</table>
 ## 📖 Théorie et fonctionnement
 
 ### DHT11

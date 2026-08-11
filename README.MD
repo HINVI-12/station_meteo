@@ -15,7 +15,7 @@ Station météo embarquée mesurant la température et l'humidité ambiantes en 
 ## 🧰 Matériel nécessaire
 
 | Composant | Description / Rôle |
-|---|---|
+|-----------------|-----------------|
 | DHT11 | Capteur de température et d'humidité |
 | Raspberry Pi Pico | Microcontrôleur |
 | Écran LCD 16x2 I2C | Affichage des mesures 
